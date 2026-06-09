@@ -108,5 +108,5 @@ The methodology is directly transferable to any business acquiring customers acr
  
 ---
  
-*Project by Evelynn Stephens | [LinkedIn](your-linkedin-url) | stephensevelynn@gmail.com*
+*Project by Evelynn Stephens | [LinkedIn](https://www.linkedin.com/in/evelynn-stephens-datascience/) | stephensevelynn@gmail.com*
  
